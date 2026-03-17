@@ -49,11 +49,9 @@ Olhando para os blocos que você usou para resolver o jogo no nível 10, imagine
 > Sabendo que a soma dos ângulos internos de um hexagono da 360º, usei um loop, desenhando uma linha e virando 60º para a direita. E esse estava dentro de outro loop que desenhava quatro hexagonos separados formando uma flor.
 ## 4. Desafio:
 **A)** O loop principal tem 6 repetições e a tartaruga vira 60º.
+
 **B)** O ângulo deve ser de 90º assim irão ser distribuídos em formato de um círculo.
+
 **C)** A soma dos ângulos internos de um hexágono é igual a 360º, sabendo que um hexágono tem 6 lados, dividimos 360 por 6, assim sabemos o ângulo que a tartaruga deve virar para desenhar o hexágono. A mesma coisa acontece para desenhar os hexágonos distribuídos de forma circular, mas dessa vez dividimos os 360º por 4, já que são 4 hexágonos, então a tartaruga deve virar 90º.
-  
-**B)** Escreva aqui...
-  
-**C)** Escreva aqui...
 
 ---
